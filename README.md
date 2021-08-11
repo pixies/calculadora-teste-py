@@ -5,4 +5,6 @@
 ### Inicializando o ambiente virtual
 > source venv/bin/activate
 
+bla bla bla
+
 
