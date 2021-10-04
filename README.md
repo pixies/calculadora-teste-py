@@ -1,4 +1,4 @@
-# calculadora-teste-py
+# Calculadora de Teste
 ## para iniciar o seu trabalho crie uma estrutura virutal
 ### Virtualizando o python com o modulo venv
 > python3 -m venv venv
